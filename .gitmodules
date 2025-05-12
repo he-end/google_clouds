@@ -1,0 +1,3 @@
+[submodule "gtts"]
+	path = gtts
+	url = git@github.com:hend7423/gtts.git
