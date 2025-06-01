@@ -1,3 +1,6 @@
 [submodule "gtts"]
 	path = gtts
 	url = git@github.com:hend41234/gtts.git
+[submodule "gem-flash-image"]
+	path = gem-flash-image
+	url = git@github.com:hend41234/gem-flash-image.git
