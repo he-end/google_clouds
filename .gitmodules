@@ -4,3 +4,6 @@
 [submodule "gem-flash-image"]
 	path = gem-flash-image
 	url = git@github.com:hend41234/gem-flash-image.git
+[submodule "gemini"]
+	path = gemini
+	url = git@github.com:hend41234/gemini.git
