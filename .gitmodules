@@ -1,9 +1,9 @@
 [submodule "gtts"]
 	path = gtts
-	url = git@github.com:hend41234/gtts.git
+	url = git@github.com:he-end/gtts.git
 [submodule "gem-flash-image"]
 	path = gem-flash-image
-	url = git@github.com:hend41234/gem-flash-image.git
+	url = git@github.com:he-end/gem-flash-image.git
 [submodule "gemini"]
 	path = gemini
-	url = git@github.com:hend41234/gemini.git
+	url = git@github.com:he-end/gemini.git
